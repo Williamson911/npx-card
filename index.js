@@ -3,8 +3,8 @@ const boxen = require("boxen");
 
 // Text + chalk definitions
 const data = {
-    name: chalk.white("             William Williamson"),
-    handle: chalk.white("Will"),
+    name: chalk.inverse.yellow("             William Williamson"),
+    handle: chalk.inverse.blue("The Gif Master"),
     work: chalk.white("Junior Web Dev @BeCode.org"),
     github: chalk.gray("https://github.com/") + chalk.yellow("Williamson911"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("williamwilliamson91"),
