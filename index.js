@@ -10,7 +10,7 @@ const data = {
     work: chalk.white("Junior Web Dev @BeCode.org"),
     github: chalk.gray("https://github.com/") + chalk.yellow("Williamson911"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("williamwilliamson91"),
-    npx: chalk.red("npx") + " " + chalk.white("will"),
+    npx: chalk.red("npx") + " " + chalk.white("williamson"),
     labelWork: chalk.white.bold("       Work:"),
     labelGitHub: chalk.white.bold("     GitHub:"),
     labelLinkedIn: chalk.white.bold("   LinkedIn:"),
