@@ -1,6 +1,6 @@
 {
     "name": "williamson",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "description": "A personal card for me",
     "main": "index.js",
     "bin": {
