@@ -6,7 +6,7 @@ const data = {
     name: chalk.white("             William Williamson"),
     handle: chalk.white("Will"),
     work: chalk.white("Junior Web Dev @BeCode.org"),
-    github: chalk.gray("https://github.com/") + chalk.green("Williamson911"),
+    github: chalk.gray("https://github.com/") + chalk.yellow("Williamson911"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("williamwilliamson91"),
     npx: chalk.red("npx") + " " + chalk.white("will"),
     labelWork: chalk.white.bold("       Work:"),
@@ -19,7 +19,7 @@ const NEWLINE = "\n";
 const EMPTYLINE = "";
 
 console.log(
-    chalk.green(
+    chalk.white(
         boxen(
             [
                 `${data.name} / ${data.handle}`,
