@@ -1,4 +1,25 @@
 {
+    "name": "william",
+    "version": "0.1.0",
+    "description": "A personal card for me",
+    "main": "./index.js",
+    "bin": {
+      "william": "./index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Williamson911/npx-card.git"
+    },
+    "keywords": [
+      "card",
+      "npm",
+      "npm card",
+      "npx",
+      "npx card",
+      "business card"
+    ],
+    "author": "william",
+    "license": "MIT",
   "dependencies": {
     "boxen": "^5.0.1",
     "chalk": "^4.1.0"
