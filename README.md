@@ -4,7 +4,7 @@
 
 Via npx:
 ```
-npx william
+npx williamson
 ```
 
 * * *
